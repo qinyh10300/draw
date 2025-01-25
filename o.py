@@ -1,4 +1,6 @@
 import numpy
+aaa=1
 
-aaa = 1
 print(aaa)
+
+print(1)
